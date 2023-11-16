@@ -192,13 +192,13 @@
     font-size:41px;
 }
 
-form{
+.form{
     max-width:400px;
     margin:20px auto;
     text-align: center;
 }
 
-form input{
+.form input{
     text-align: center;
     margin: 7px 1px;
     padding: 6px 5px;
